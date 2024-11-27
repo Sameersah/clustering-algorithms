@@ -22,8 +22,7 @@ This repository contains implementations of various clustering techniques in Goo
 
 - Implementation of the K-Means clustering algorithm from scratch.
 - Includes step-by-step logic and visualizations of clustering results.
-- **Notebook**: [K-Means Clustering](link_to_notebook)
-- **Video Explanation**: [Watch Here](link_to_video)
+
 
 ---
 
