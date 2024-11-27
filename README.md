@@ -3,7 +3,16 @@
 This repository contains implementations of various clustering techniques in Google Colab notebooks. Each notebook includes detailed documentation, explanations, and evaluation metrics to assess clustering quality. Accompanying videos provide a walkthrough of the notebooks and their functionality.
 
 ---
-
+## colab link-
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/DB_Scan_clustering.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/Gaussian_Mixture_Models.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/K_Means_algorithm.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/ML_Clustering.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/anomaly_detection_using_pyOD.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/clustering_of_document.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/clustering_of_timeseries.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/clustering_with_images__llm.ipynb
+ - https://colab.research.google.com/github/ankitojha2705/Clustering-Colab/blob/main/udio_embeddings.ipynb
 ## Table of Contents
 
 1. [K-Means Clustering from Scratch](#1-k-means-clustering-from-scratch)
